@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">I am trying To make a loan calculator using pure js/html/css</p>
 
 ###
 
